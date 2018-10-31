@@ -1,3 +1,3 @@
 Readme:
 
-This is my work following a tensorflow tutorial for python
+This is my work following a tensoflow tutorial for python
